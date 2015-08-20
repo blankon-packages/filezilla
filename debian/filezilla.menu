@@ -1,0 +1,5 @@
+?package(filezilla): needs="X11" \
+  section="Applications/Network/File Transfer" \
+  title="FileZilla" \
+  command="/usr/bin/filezilla" \
+  icon="/usr/share/pixmaps/filezilla.xpm"
